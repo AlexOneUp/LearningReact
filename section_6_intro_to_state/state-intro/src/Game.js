@@ -11,7 +11,7 @@ class Game extends Component {
 
     // Alternative syntax using Babel which converts this code
     state = {
-        score: 99,
+        score: 0,
         gameOver: false
     }
 
