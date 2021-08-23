@@ -5,9 +5,9 @@ Learn a front-end framework for a full stack project Emergency Triage.
 End goal is make a MERN SPA web app by New Year
 
 ## Progress
-Section 7/38
+Section 8/39
 
-![Progress](https://progress-bar.dev/18/?title=completed)
+![Progress](https://progress-bar.dev/20/?title=completed)
 
 
 ## Credits
