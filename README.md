@@ -6,7 +6,8 @@ End goal is make a MERN SPA web app by New Year
 
 ## Progress
 Section 7/38
-![Progress](https://progress-bar.dev/58/?title=completed)
+
+![Progress](https://progress-bar.dev/18/?title=completed)
 https://progress-bar.dev/18/?title=completed
 
 ## Credits
