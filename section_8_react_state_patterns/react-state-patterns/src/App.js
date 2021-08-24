@@ -1,10 +1,12 @@
 import './App.css';
-import ScoreKeeper from './ScoreKeeper';
+import Ball from './Ball';
+// import ScoreKeeper from './ScoreKeeper';
 
 function App() {
   return (
     <div className="App">
-      <ScoreKeeper />
+      {/* <ScoreKeeper /> */}
+      <Ball/>
     </div>
   );
 }
