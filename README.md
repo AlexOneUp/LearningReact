@@ -2,7 +2,7 @@
 
 ## Motivation
 Learn a front-end framework for a full stack project Emergency Triage.
-End goal is make a MERN SPA web app by New Year
+End goal is learn how to make a MERN SPA web app
 
 ## Progress
 Section 15/39
